@@ -1,8 +1,9 @@
 {
-    "name": "Example page",
+    "title": "Example page",
+    "description": "Just an example page.",
     "content": [
         {
-            "provider": "external",
+            "provider": "repository",
             "type": "markdown",
             "path": "example"
         }
