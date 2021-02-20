@@ -1,0 +1,10 @@
+{
+    "name": "Example page",
+    "content": [
+        {
+            "provider": "external",
+            "type": "markdown",
+            "path": "example"
+        }
+    ]
+}
