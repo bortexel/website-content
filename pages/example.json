@@ -1,6 +1,6 @@
 {
     "title": "Example page",
-    "description": "Just an example page.",
+    "description": "Just an example page",
     "content": [
         {
             "provider": "repository",
