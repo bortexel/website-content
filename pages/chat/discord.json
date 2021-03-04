@@ -1,0 +1,11 @@
+{
+    "title": "Интеграция с Discord",
+    "description": "Здесь рассказано про интеграцию нашего сервера с Discord.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "chat/discord"
+        }
+    ]
+}

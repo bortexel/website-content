@@ -1,0 +1,11 @@
+{
+    "title": "Личные сообщения",
+    "description": "Про информацию о системе личных сообщений на нашем сервере.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "chat/private-messages"
+        }
+    ]
+}

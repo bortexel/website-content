@@ -1,0 +1,97 @@
+{
+    "title": "Содержание",
+    "categories": [
+        {
+            "name": "Основная информация",
+            "pages": [
+                {
+                    "name": "Вопросы и ответы",
+                    "path": "faq"
+                },
+                {
+                    "name": "Белый список",
+                    "path": "whitelist"
+                },
+                {
+                    "name": "Особенности сервера",
+                    "path": "features"
+                }
+            ]
+        },
+        {
+            "name": "Правила",
+            "pages": [
+                {
+                    "name": "Общие правила",
+                    "type": "rules",
+                    "path": "main"
+                },
+                {
+                    "name": "Ролевая игра",
+                    "type": "rules",
+                    "path": "roleplay"
+                },
+                {
+                    "name": "Общественные объекты",
+                    "type": "rules",
+                    "path": "places"
+                },
+                {
+                    "name": "Наказания за нарушения",
+                    "path": "punishments"
+                }
+            ]
+        },
+        {
+            "name": "Чат",
+            "pages": [
+                {
+                    "name": "Типы чата",
+                    "path": "chat/types"
+                },
+                {
+                    "name": "Личные сообщения",
+                    "path": "chat/private-messages"
+                },
+                {
+                    "name": "RolePlay команды",
+                    "path": "chat/roleplay-commands"
+                },
+                {
+                    "name": "Чат-группы",
+                    "path": "chat/groups"
+                },
+                {
+                    "name": "Интеграция с Discord",
+                    "path": "chat/discord"
+                }
+            ]
+        },
+        {
+            "name": "Возможности",
+            "pages": [
+                {
+                    "name": "Проверка логов",
+                    "path": "features/logs"
+                },
+                {
+                    "name": "Система точек",
+                    "path": "features/points"
+                }
+            ]
+        },
+        {
+            "name": "Разное",
+            "pages": [
+                {
+                    "name": "Безопасность аккаунта",
+                    "path": "security"
+                },
+                {
+                    "name": "Линии в Нижнем мире",
+                    "path": "style-guide"
+                }
+            ]
+        }
+    ]
+}

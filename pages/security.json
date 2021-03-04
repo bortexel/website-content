@@ -1,0 +1,16 @@
+{
+    "title": "Безопасность аккаунта",
+    "description": "Здесь рассказано, как авторизоваться на сервере, сменить или восстановить пароль аккаунта.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "features/authorization"
+        },
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "features/password"
+        }
+    ]
+}

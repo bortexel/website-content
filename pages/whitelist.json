@@ -1,0 +1,21 @@
+{
+    "title": "Белый список",
+    "description": "Информация о том, как можно попасть на наш сервер",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "whitelist/request"
+        },
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "whitelist/verification-mc"
+        },
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "whitelist/verification-ely"
+        }
+    ]
+}

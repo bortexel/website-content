@@ -1,0 +1,11 @@
+{
+    "title": "Типы чатов",
+    "description": "Информация о типах чатов, доступных на сервере.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "chat/types"
+        }
+    ]
+}

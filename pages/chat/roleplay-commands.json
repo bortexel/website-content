@@ -1,0 +1,11 @@
+{
+    "title": "RolePlay команды",
+    "description": "Информация о командах, которые помогут при отыгровке ролей. Здесь рассказано про /me, /gme и т.п.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "chat/roleplay-commands"
+        }
+    ]
+}

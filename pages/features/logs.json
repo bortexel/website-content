@@ -1,0 +1,11 @@
+{
+    "title": "Проверка логов",
+    "description": "Краткий гайд по использованию плагина CoreProtect для проверки истории взаимодействий с тем или иным блоком.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "features/logs"
+        }
+    ]
+}

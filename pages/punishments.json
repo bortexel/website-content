@@ -1,0 +1,21 @@
+{
+    "title": "Наказания",
+    "description": "Информация о возможных наказаниях за нарушения правил нашего сервера.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "punishments/bans"
+        },
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "punishments/warnings"
+        },
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "punishments/mutes"
+        }
+    ]
+}

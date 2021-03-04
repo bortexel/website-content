@@ -1,0 +1,11 @@
+{
+    "title": "Часто задаваемые вопросы",
+    "description": "Часто задаваемые вопросы о нашем сервере с ответами на них.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "faq"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Чат-группы",
+    "description": "Всё о системе групповых чатов, доступной на нашем сервере.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "chat/groups"
+        }
+    ]
+}
