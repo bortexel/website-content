@@ -47,23 +47,23 @@
             "pages": [
                 {
                     "name": "Типы чата",
-                    "path": "chat/types"
+                    "path": "chat-types"
                 },
                 {
                     "name": "Личные сообщения",
-                    "path": "chat/private-messages"
+                    "path": "private-messages"
                 },
                 {
                     "name": "RolePlay команды",
-                    "path": "chat/roleplay-commands"
+                    "path": "roleplay-commands"
                 },
                 {
                     "name": "Чат-группы",
-                    "path": "chat/groups"
+                    "path": "chat-groups"
                 },
                 {
                     "name": "Интеграция с Discord",
-                    "path": "chat/discord"
+                    "path": "chat-discord"
                 }
             ]
         },
@@ -72,11 +72,11 @@
             "pages": [
                 {
                     "name": "Проверка логов",
-                    "path": "features/logs"
+                    "path": "logs"
                 },
                 {
                     "name": "Система точек",
-                    "path": "features/points"
+                    "path": "points"
                 }
             ]
         },
