@@ -9,32 +9,8 @@
                     "path": "faq"
                 },
                 {
-                    "name": "Белый список",
-                    "path": "whitelist"
-                },
-                {
                     "name": "Особенности сервера",
                     "path": "features"
-                }
-            ]
-        },
-        {
-            "name": "Правила",
-            "pages": [
-                {
-                    "name": "Общие правила",
-                    "type": "rules",
-                    "path": "main"
-                },
-                {
-                    "name": "Ролевая игра",
-                    "type": "rules",
-                    "path": "roleplay"
-                },
-                {
-                    "name": "Общественные объекты",
-                    "type": "rules",
-                    "path": "places"
                 },
                 {
                     "name": "Наказания за нарушения",
@@ -86,10 +62,6 @@
                 {
                     "name": "Безопасность аккаунта",
                     "path": "security"
-                },
-                {
-                    "name": "Линии в Нижнем мире",
-                    "path": "style-guide"
                 }
             ]
         }
