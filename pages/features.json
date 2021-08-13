@@ -1,0 +1,11 @@
+{
+    "title": "Особенности сервера",
+    "description": "Коротко об особенностях нашего проекта",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "features/features"
+        }
+    ]
+}
