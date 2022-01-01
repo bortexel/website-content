@@ -53,19 +53,10 @@
                 {
                     "name": "Система точек",
                     "path": "points"
-                }
-            ]
-        },
-        {
-            "name": "Разное",
-            "pages": [
-                {
-                    "name": "Безопасность аккаунта",
-                    "path": "security"
                 },
                 {
-                    "name": "1HP9L",
-                    "path": "1hp9l"
+                    "name": "Сообщения о ценах",
+                    "path": "price-reports"
                 }
             ]
         }

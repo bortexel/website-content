@@ -1,0 +1,11 @@
+{
+    "title": "Сообщения о ценах",
+    "description": "Инструкция по публикации информации о ценах в магазине.",
+    "content": [
+        {
+            "provider": "repository",
+            "type": "markdown",
+            "path": "features/price-reports"
+        }
+    ]
+}
